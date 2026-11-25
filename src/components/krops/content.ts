@@ -167,7 +167,7 @@ export const team = {
       ["Raja Rafael P. S.", "Founder"],
       ["Darren C. Liharja", "Co-Founder"],
       ["Hatami K. Sugandi", "Co-Founder"],
-      ["Lucky Akbar", "Lead Software Architect"],
+      ["Lucky Akbar", "Lead Software Engineer"],
       ["Deni Wijaya", "Product Designer"],
       ["Ferdinand Kee", "Product Manager"],
       ["Putra G. Dewata", "AI Engineer"],
